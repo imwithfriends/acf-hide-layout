@@ -1,5 +1,5 @@
 {
-  "name"       : "imwithfriends/acf-hide-select",
+  "name"       : "imwithfriends/acf-hide-layout",
   "type"       : "wordpress-plugin",
   "require"    : {
     "composer/installers": "~1.0"
